@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s01ubab",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0nu",
+  "name": "Game of War",
+  "description": "Card game",
   "scripts": {
     "start": "vite",
     "dev": "vite",
